@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 <img width="1448" height="816" alt="screenshot-2025-08-24-17-49-15" src="https://github.com/user-attachments/assets/ddb6bba5-8753-44ea-830a-017a289763a9" />
 
@@ -109,3 +110,7 @@ Silakan buat pull request atau issue untuk saran dan perbaikan.
 ## Lisensi
 
 GNU General Public License v2.0
+=======
+# HR
+aplikasi HR
+>>>>>>> 4d9d67b8bc91bd86017ba2c9420edf06a1b1e723
